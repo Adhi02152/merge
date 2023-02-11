@@ -1,1 +1,2 @@
 this is merge file data.this command is used to data move one branch to another branch
+I am Adhi i am git branches tools
